@@ -11,7 +11,7 @@ Window {
         anchors.centerIn: parent
         width: parent.width * 0.5
         height: parent.height * 0.5
-        color: "red"
+        color: "green"
 
         Text {
             text: qsTr("Sample test...")
